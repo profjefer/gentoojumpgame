@@ -1,6 +1,9 @@
 # gentoojumpgame
 # Gentoo Jump Game
-Game escrito em Javascript
+
+> Game escrito em Javascript
+
+![Gentoo Jump Game](gentoojump.gif "Gentoo Jump")
 
 ## Instalação
 
